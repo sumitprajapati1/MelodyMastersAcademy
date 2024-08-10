@@ -1,6 +1,7 @@
 "use client";
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import TestimonialCads from "@/components/TestimonialCads";
 import WhyChooseUs from "@/components/WhyChooseUs";
 
 
@@ -10,6 +11,7 @@ export default function Home() {
       <HeroSection/>
       <FeaturedCourses/>
      <WhyChooseUs/> 
+    <TestimonialCads/>
    </main>
   );
 }
