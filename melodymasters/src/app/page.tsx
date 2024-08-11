@@ -1,5 +1,6 @@
 "use client";
 import FeaturedCourses from "@/components/FeaturedCourses";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import Instructors from "@/components/Instructors";
 import TestimonialCads from "@/components/TestimonialCads";
@@ -16,6 +17,7 @@ export default function Home() {
       <TestimonialCads />
       <UpcomingWebinars />
       <Instructors />
+      <Footer/>
     </main>
   );
 }
