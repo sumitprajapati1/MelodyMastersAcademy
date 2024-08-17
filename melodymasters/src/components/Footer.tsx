@@ -72,7 +72,7 @@ export class Footer extends Component {
                             <h2 className="text-white text-sm font-semibold mb-4">Contact Us</h2>
                             <p>Gujrat, India</p>
                             <p>Gandhinagar  10001</p>
-                            <p>Email: info@musicschool.com</p>
+                            <p>Email: info@melodymastersacademy.com</p>
                             <p>Phone: (123) 456-7890</p>
                         </div>
                     </div>
